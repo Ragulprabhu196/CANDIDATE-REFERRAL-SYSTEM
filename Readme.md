@@ -176,15 +176,7 @@ SMTP_AUTH_PASS=PASSWORD
 
 
 
-At cleint application
-```
-npm run start
-```
 
-At server application
-```
-npm run dev
-```
 
 ## 🚀 About Me
 I'm a full stack developer...
