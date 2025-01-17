@@ -1,9 +1,14 @@
+### Admin Credentials
+
+```
+admin@admin.com
+12345678
+```
 
 
+### Candidate Referral System
 
-### Employee Management System
-
-The Employee Management System (EMS) project is a comprehensive solution designed to streamline and enhance the efficiency of managing employee-related tasks within an organization. Built on the MERN (MongoDB, Express.js, React, Node.js) stack, this system integrates cutting-edge technologies to provide a robust, scalable, and user-friendly platform for effective employee administration.
+Candidate Referral System project is a comprehensive solution designed to streamline and enhance the efficiency of managing employee-related tasks within an organization. Built on the MERN (MongoDB, Express.js, React, Node.js) stack, this system integrates cutting-edge technologies to provide a robust, scalable, and user-friendly platform for effective employee administration.
 The main motive of to build this application to manage the employee, teams, leaders, and targets of a company.
 
 
@@ -85,28 +90,9 @@ The main motive of to build this application to manage the employee, teams, lead
 ![](/screenshots/3.png)
 
 
-### Admin
-![](/screenshots/Admin%20Panel/1.png)
-![](/screenshots/Admin%20Panel/2.png)
-![](/screenshots/Admin%20Panel/3.png)
-![](/screenshots/Admin%20Panel/4.png)
-![](/screenshots/Admin%20Panel/5.png)
-![](/screenshots/Admin%20Panel/6.png)
-![](/screenshots/Admin%20Panel/7.png)
-![](/screenshots/Admin%20Panel/8.png)
-![](/screenshots/Admin%20Panel/9.png)
-![](/screenshots/Admin%20Panel/10.png)
-![](/screenshots/Admin%20Panel/11.png)
-![](/screenshots/Admin%20Panel/12.png)
-![](/screenshots/Admin%20Panel/13.png)
-![](/screenshots/Admin%20Panel/14.png)
-![](/screenshots/Admin%20Panel/15.png)
-![](/screenshots/Admin%20Panel/16.png)
-![](/screenshots/Admin%20Panel/17.png)
-![](/screenshots/Admin%20Panel/18.png)
-![](/screenshots/Admin%20Panel/19.png)
 
-### Employee
+
+### Candidate
 ![](/screenshots/Employee%20Panel/1.png)
 ![](/screenshots/Employee%20Panel/2.png)
 ![](/screenshots/Employee%20Panel/3.png)
@@ -193,12 +179,7 @@ SMTP_AUTH_PASS=PASSWORD
 }
 ```
 
-### Admin Credentials
 
-```
-admin@admin.com
-12345678
-```
 
 At cleint application
 ```
