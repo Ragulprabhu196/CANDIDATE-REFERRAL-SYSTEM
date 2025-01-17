@@ -99,13 +99,6 @@ The main motive of to build this application to manage the employee, teams, lead
 ![](/screenshots/Employee%20Panel/9.png)
 
 
-## Installation
-
-Client Repository: https://github.com/deepak-singh5219/Easy-Employee
-
-Server Repository: https://github.com/deepak-singh5219/Easy-Employee-API
-
-Follow these steps to set up the Employee Management System on your local machine:
 
 ### Prerequisites
 
@@ -113,68 +106,6 @@ Make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/try/download/community)
-
-### Clone the Repository
-
-#### client
-
-```bash
-git clone https://github.com/deepak-singh5219/Easy-Employee
-cd Easy-Employee
-npm install
-```
-Make sure your environment variables are configured properly.
-```
-REACT_APP_BASE_URL=http://localhost:5500
-```
-
-#### server
-
-```bash
-git clone https://github.com/deepak-singh5219/Easy-Employee-API
-cd Easy-Employee-API
-npm install
-```
-
-Make sure your environment variables are configured properly.
-```
-ACCESS_TOKEN_SECRET_KEY=SECRET_KEY
-REFRESH_TOKEN_SECRET_KEY=REFRESH_KEY
-
-BASE_URL=SERVER_BASE_URL
-DB_URL=DATABASE_URL
-CLIENT_URL=CLIENT_BASE_URL
-TYPE_FORGOT_PASSWORD=2
-WEBSITE_NAME=Easy Employee
-BCRYPT_PASSWORD_SALT_FACTOR=10
-
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=465
-SMTP_SECURE=false
-SMTP_REQUIRE_TLS=true
-SMTP_AUTH_USER=EMAIL
-SMTP_AUTH_PASS=PASSWORD
-```
-### Admin object
-
-```
-{
-"_id":{"$oid":"64ca3376893ac9f719ea5c4d"},
-"name":"Admin",
-"email":"admin@admin.com",
-"username":"admin",
-"mobile":{"$numberDouble":"8840532578.0"},
-"password":"$2b$10$PENEG9O8u5.LZfZznEMQp.YomtW.Z7tFgW7yLPXq0XmU3.UcsFlhi",
-"type":"admin","status":"active",
-"image":"profile-1690973045739-766059788passport_photo.jpg",
-"address":"Lucknow",
-"createdAt":{"$date":{"$numberLong":"1690973046137"}},
-"updatedAt":{"$date":{"$numberLong":"1692765336607"}},
-"__v":{"$numberInt":"0"}
-}
-```
-
-
 
 
 
